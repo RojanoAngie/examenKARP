@@ -21,7 +21,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="HomeVet.php">Invitado 1</a>
+          <a class="nav-link active" aria-current="page" href="Vista/jonathan.php">Invitado 1</a>
         </li>
 
  
